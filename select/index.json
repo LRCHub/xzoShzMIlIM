@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "空奏列車",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-30T00:40:10.678991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空奏列車",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_空奏列車_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "空奏列車",
+      "artist": "めありー",
+      "has_synced": true,
+      "path": "select/02_空奏列車_めありー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "空奏列車 - Daydream Sky Train",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/03_空奏列車_-_Daydream_Sky_Train_MARY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空奏列車",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/04_空奏列車_MARY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空奏列車",
+      "artist": "orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_空奏列車_orangestar.txt"
+    }
+  ]
+}
